@@ -1,0 +1,93 @@
+main {
+    /* Desktop - 1 */
+
+
+    position: relative;
+    width: 1440px;
+    height: 1088px;
+
+    background: #FFFFFF;
+}
+
+/* Frame 11 */
+.navbar {
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 1140px;
+height: 37px;
+left: 150px;
+top: 58px;
+
+}
+
+/* Frame 343 */
+.frame343 {
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 15px;
+
+width: 199px;
+height: 24px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.frame343 figure .logo {
+    /* Frame */
+
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.frame343 .navbar-logo {
+    /* Holadok */
+
+
+width: 67px;
+height: 23px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #101C45;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
